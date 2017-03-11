@@ -289,9 +289,6 @@ public class TakePhotoUtils {
 
 可能还有还有些地方说的不够清晰或者和错误。希望大家指正。
 
-demo源码地址:
-
-
 
 
 
